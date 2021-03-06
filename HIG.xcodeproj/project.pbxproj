@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1D60DBA625F0E55400AD76B3 /* NavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D60DBA625F0E55400AD76B3 /* HIG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HIG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D60DBA925F0E55400AD76B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D60DBAB25F0E55400AD76B3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1D60DBAD25F0E55400AD76B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		1D60DBA725F0E55400AD76B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D60DBA625F0E55400AD76B3 /* NavigationController.app */,
+				1D60DBA625F0E55400AD76B3 /* HIG.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D60DBA525F0E55400AD76B3 /* NavigationController */ = {
+		1D60DBA525F0E55400AD76B3 /* HIG */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D60DBBA25F0E55700AD76B3 /* Build configuration list for PBXNativeTarget "NavigationController" */;
+			buildConfigurationList = 1D60DBBA25F0E55700AD76B3 /* Build configuration list for PBXNativeTarget "HIG" */;
 			buildPhases = (
 				1D60DBA225F0E55400AD76B3 /* Sources */,
 				1D60DBA325F0E55400AD76B3 /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = NavigationController;
+			name = HIG;
 			productName = NavigationController;
-			productReference = 1D60DBA625F0E55400AD76B3 /* NavigationController.app */;
+			productReference = 1D60DBA625F0E55400AD76B3 /* HIG.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -107,7 +107,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1D60DBA125F0E55400AD76B3 /* Build configuration list for PBXProject "NavigationController" */;
+			buildConfigurationList = 1D60DBA125F0E55400AD76B3 /* Build configuration list for PBXProject "HIG" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -120,7 +120,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D60DBA525F0E55400AD76B3 /* NavigationController */,
+				1D60DBA525F0E55400AD76B3 /* HIG */,
 			);
 		};
 /* End PBXProject section */
@@ -328,7 +328,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D60DBA125F0E55400AD76B3 /* Build configuration list for PBXProject "NavigationController" */ = {
+		1D60DBA125F0E55400AD76B3 /* Build configuration list for PBXProject "HIG" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D60DBB825F0E55700AD76B3 /* Debug */,
@@ -337,7 +337,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1D60DBBA25F0E55700AD76B3 /* Build configuration list for PBXNativeTarget "NavigationController" */ = {
+		1D60DBBA25F0E55700AD76B3 /* Build configuration list for PBXNativeTarget "HIG" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D60DBBB25F0E55700AD76B3 /* Debug */,
