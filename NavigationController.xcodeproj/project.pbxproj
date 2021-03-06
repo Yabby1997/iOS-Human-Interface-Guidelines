@@ -14,6 +14,7 @@
 		1D60DBB325F0E55700AD76B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D60DBB225F0E55700AD76B3 /* Assets.xcassets */; };
 		1D60DBB625F0E55700AD76B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D60DBB425F0E55700AD76B3 /* LaunchScreen.storyboard */; };
 		1D60DBBF25F0EC9100AD76B3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D60DBBE25F0EC9100AD76B3 /* SecondViewController.swift */; };
+		1D60DBC425F338F300AD76B3 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D60DBC325F338F300AD76B3 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1D60DBB525F0E55700AD76B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D60DBB725F0E55700AD76B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D60DBBE25F0EC9100AD76B3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		1D60DBC325F338F300AD76B3 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1D60DBAD25F0E55400AD76B3 /* ViewController.swift */,
 				1D60DBAF25F0E55400AD76B3 /* Main.storyboard */,
 				1D60DBBE25F0EC9100AD76B3 /* SecondViewController.swift */,
+				1D60DBC325F338F300AD76B3 /* ThirdViewController.swift */,
 				1D60DBB225F0E55700AD76B3 /* Assets.xcassets */,
 				1D60DBB425F0E55700AD76B3 /* LaunchScreen.storyboard */,
 				1D60DBB725F0E55700AD76B3 /* Info.plist */,
@@ -142,6 +145,7 @@
 			files = (
 				1D60DBBF25F0EC9100AD76B3 /* SecondViewController.swift in Sources */,
 				1D60DBAE25F0E55400AD76B3 /* ViewController.swift in Sources */,
+				1D60DBC425F338F300AD76B3 /* ThirdViewController.swift in Sources */,
 				1D60DBAA25F0E55400AD76B3 /* AppDelegate.swift in Sources */,
 				1D60DBAC25F0E55400AD76B3 /* SceneDelegate.swift in Sources */,
 			);
