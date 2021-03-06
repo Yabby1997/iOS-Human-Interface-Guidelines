@@ -1,5 +1,5 @@
 //
-//  ThirdViewController.swift
+//  ModalViewController.swift
 //  HIG
 //
 //  Created by Seunghun Yang on 2021/03/06.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ThirdViewController: ViewController {
+class ModalViewController: ViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -36,8 +36,9 @@ class ThirdViewController: ViewController {
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
     }
-
-    @IBAction func popTapped(_ sender: Any) {
-        self.navigationController?.popViewController(animated: true)
+    
+    @IBAction func dismissTapped(_ sender: Any) {
+        self.dismiss(animated: true, completion: nil)
     }
+    
 }
